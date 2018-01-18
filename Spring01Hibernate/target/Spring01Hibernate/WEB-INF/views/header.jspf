@@ -1,0 +1,5 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+<a href="/author/all">Show all</a>
+<a href="/author/save">Add new Author</a>
+
